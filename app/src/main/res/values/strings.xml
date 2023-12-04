@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LR3.1</string>
+    <string name="Name">Введите имя знаменитости</string>
+    <string name="Input">Ввод</string>
+    <string name="NoText">Введите имя</string>
+    <string name="Correct">Верно</string>
+    <string name="Incorrect">Неверно</string>
+</resources>
